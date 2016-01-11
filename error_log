@@ -1,0 +1,4 @@
+[22-Sep-2014 20:57:46 UTC] PHP Fatal error:  Call to undefined function mysql_SUM() in /home/misarmiento/public_html/mike/clickerview.php on line 92
+[22-Sep-2014 20:57:49 UTC] PHP Fatal error:  Call to undefined function mysql_SUM() in /home/misarmiento/public_html/mike/clickerview.php on line 92
+[23-Sep-2014 17:48:14 UTC] PHP Fatal error:  Call to undefined function mysql_fetch_result() in /home/misarmiento/public_html/mike/clickerview.php on line 692
+[23-Sep-2014 17:48:18 UTC] PHP Fatal error:  Call to undefined function mysql_fetch_result() in /home/misarmiento/public_html/mike/clickerview.php on line 692
